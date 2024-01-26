@@ -1,9 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jaspreet Nahal</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
-<img src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='programmer gif download' height='350px'>
-
-<p align="left"> <a href="https://twitter.com/jaspreetsingh" target="blank"><img src="https://img.shields.io/twitter/follow/jaspreetsingh?logo=twitter&style=for-the-badge" alt="jaspreetsingh" /></a> </p>
+<p align="centre"><img src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='programmer gif download' height='350px'></p>
 
 - 🌱 I’m currently learning Front End **(React.js)**
 
