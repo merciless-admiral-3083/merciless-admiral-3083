@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Science Student</h3>
 <img align="centre" src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif' alt='programmer gif' height='350px'>
 
-- 🌱 I’m currently learning Front End **(React.js)**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/merciless-admiral-3083](https://github.com/merciless-admiral-3083)
 
