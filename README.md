@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- 👨‍💻 All of my projects are available at [https://github.com/merciless-admiral-3083](https://github.com/merciless-admiral-3083)
-
 - 💬 Ask me about **Java, JS, Python and more!**
 
 - 📫 How to reach me: **jaspreetnahal100@gmail.com**
